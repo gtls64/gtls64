@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Master of Interaction Desing Student at University of Queensland
+I am a Master of Interaction Design Student at University of Queensland
 
 
 ## 🌐 Socials:
