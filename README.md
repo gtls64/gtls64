@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Thisura Senarath – a Designer/Developer passionate about creating impactful solutions that blend design, technology, and innovation. Enthusiastic about IoT devices, I specialize in integrating hardware and software to solve real-world problems.
+Hi, I'm Thisura Senarath a Designer/Developer passionate about creating impactful solutions that blend design, technology, and innovation. Enthusiastic about IoT devices, I specialize in integrating hardware and software to solve real-world problems.
 
 Currently, I work at Monty Compost Co, where I contribute to product design, brand development, and IoT projects aimed at revolutionizing composting solutions.
 
